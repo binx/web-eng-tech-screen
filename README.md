@@ -11,8 +11,11 @@ breakpoint: `520px`
 ![](./mobile.png)
 
 header: `#265CFF`
+
 body: `#0B2471`
+
 border: `#658DFD`
+
 background: `#FFFBF3`
 
 ```
