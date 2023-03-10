@@ -34,11 +34,3 @@ Custom solutions
 
 Every standard is different, and every company has different needs. With our flexible software platform, you can build data categories, methodologies, and reports that adapt as your needs change.
 ```
-
-## Extra Credit
-
-If there's time, let's go for the gold with a tablet layout:
-
-breakpoint: `820px`
-
-![](./tablet.png)
