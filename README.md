@@ -10,13 +10,16 @@ breakpoint: `520px`
 
 ![](./mobile.png)
 
-header: `#265CFF`
+| Attr | Value |
+| --- | ----- |
+| header (bright blue)      | `#265CFF` |
+| body (navy blue)     | `#0B2471` |
+| border color     | `#658DFD` |
+| background     | `#FFFBF3` |
+| header font size     | `28px` |
+| body font size     | `20px` |
+| index number font size     | `16px` |
 
-body: `#0B2471`
-
-border: `#658DFD`
-
-background: `#FFFBF3`
 
 ```
 Best-in-class carbon accounting
